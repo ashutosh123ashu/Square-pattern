@@ -1,5 +1,5 @@
 # Square-pattern
-<!-- C program
+C program
 This repository contains codes for creating a square pattern in c.
 
 
@@ -18,4 +18,4 @@ This repository contains codes for creating a square pattern in c.
 ***********************************
 ***********************************
  
--->
+
